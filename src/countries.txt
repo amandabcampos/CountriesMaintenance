@@ -1,0 +1,4 @@
+India|1339000000|Asia
+The United States|32570000|America
+China|1386000000|Asia
+Rwanda|12210000|Africa
